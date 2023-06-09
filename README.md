@@ -11,7 +11,7 @@ For setting up the code:
 
 ## Compilation
 ```
-cd SCI
+cd EzPC/SCI
 mkdir mybuild && cd mybuild
 cmake ..
 make -j 16
