@@ -5,9 +5,9 @@ This directory contains the code for the 2PC protocols from "Optimized Secure Tw
 ## Setup
 For setting up the code:
 1. Set-up [EzPC/SCI](https://github.com/mpc-msri/EzPC/tree/master/SCI)
-2. Replace the "CMakeList.txt" file in SCI directory
+2. Replace the "CMakeList.txt" file in the SCI directory
 3. Move the "mytests" directory into the SCI directory
-4. Move the "MyProtocol" directory into the SCI directory
+4. Move the "MyProtocol" directory into the SCI/src directory
 
 ## Compilation
 ```
