@@ -1,6 +1,6 @@
-# Optimized Secure Two-Party Computation for Recurrent Neural Network Inference
+# OPAF: Optimized Secure Two-Party Computation Protocols for Nonlinear Activation Functions in Recurrent Neural Network
 ## Introduction
-This directory contains the code for the 2PC protocols from "Optimized Secure Two-Party Computation for Recurrent Neural Network Inference".
+This directory contains the code for the 2PC protocols from "OPAF: Optimized Secure Two-Party Computation Protocols for Nonlinear Activation Functions in Recurrent Neural Network".
 
 ## Setup
 For setting up the code:
